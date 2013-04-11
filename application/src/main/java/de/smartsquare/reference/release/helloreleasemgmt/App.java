@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "Development is yet fresh, this is the first change on the app that's going to SCM.";
+        return "Development is well underway, we feel the need to show a prototype to our customer. So we will release a SNAPSHOT.";
     }
     
     protected static void invokeStuff() {
