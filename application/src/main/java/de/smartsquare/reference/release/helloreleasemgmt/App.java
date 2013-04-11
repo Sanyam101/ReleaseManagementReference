@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "We got some quite good feedback on the first RC for iteration 1, changed the code a bit and now release the next RELEASE CANDIDATE.";
+        return "We published a BASELINE of version 0.1.0 (release of iteration 1) and now work towards 0.2.0 ...";
     }
     
     protected static void invokeStuff() {
