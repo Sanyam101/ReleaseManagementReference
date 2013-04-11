@@ -4,12 +4,12 @@
     <parent>
         <artifactId>HelloReleaseMgmt</artifactId>
         <groupId>de.smartsquare.reference.release</groupId>
-        <version>0.1.0-SNAPSHOT</version>
+        <version>0.1.0-RC_001</version>
     </parent>
     
     <groupId>de.smartsquare.reference.release</groupId>
     <artifactId>HelloReleaseMgmtApp</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0-RC_001</version>
     <packaging>jar</packaging>
 
     <name>HelloReleaseMgmtApp</name>
