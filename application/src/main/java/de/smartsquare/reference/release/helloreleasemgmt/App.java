@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "Development has just begun, this is the very first version of the app we put into SCM.";
+        return "Development is yet fresh, this is the first change on the app that's going to SCM.";
     }
     
     protected static void invokeStuff() {

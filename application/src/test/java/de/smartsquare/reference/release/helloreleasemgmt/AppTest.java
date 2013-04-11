@@ -31,7 +31,7 @@ public class AppTest
      * Dumb test of the Scenario.
      */
     public void testGetScenario() {
-        assertEquals(App.getAppScenario(), "Development has just begun, this is the very first version of the app we put into SCM.");
+        assertEquals(App.getAppScenario(), "Development is yet fresh, this is the first change on the app that's going to SCM.");
     }
     
     /**
