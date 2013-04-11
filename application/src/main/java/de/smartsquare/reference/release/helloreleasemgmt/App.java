@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "Development is well underway, we feel the need to show a prototype to our customer. So we will release a SNAPSHOT.";
+        return "Development is well underway, we feel the need to show a prototype to our customer. So we will release a RELEASE CANDIDATE.";
     }
     
     protected static void invokeStuff() {

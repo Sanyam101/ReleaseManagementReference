@@ -31,7 +31,7 @@ public class AppTest
      * Dumb test of the Scenario.
      */
     public void testGetScenario() {
-        assertEquals(App.getAppScenario(), "Development is well underway, we feel the need to show a prototype to our customer. So we will release a SNAPSHOT.");
+        assertEquals(App.getAppScenario(), "Development is well underway, we feel the need to show a prototype to our customer. So we will release a RELEASE CANDIDATE.");
     }
     
     /**
