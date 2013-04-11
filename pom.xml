@@ -5,7 +5,7 @@
     
     <artifactId>HelloReleaseMgmt</artifactId>
     
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.2.0-RC_001</version>
     
     <packaging>pom</packaging>
     
@@ -13,7 +13,7 @@
     
     <scm>
         <developerConnection>scm:git:file:///Users/alex/NetBeansProjects/HelloReleaseMgmt</developerConnection>
-        <tag>HEAD</tag>
+        <tag>HelloReleaseMgmt-0.2.0-RC_001</tag>
     </scm>
 
 
