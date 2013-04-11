@@ -31,7 +31,7 @@ public class AppTest
      * Dumb test of the Scenario.
      */
     public void testGetScenario() {
-        assertEquals(App.getAppScenario(), "We published a BASELINE of version 0.1.0 (release of iteration 1) and now work towards 0.2.0 ...");
+        assertEquals(App.getAppScenario(), "With this commit we're ready for a RC for version 0.2.0. It was great work, it's pretty sure that this will be final in the first try.");
     }
     
     /**
