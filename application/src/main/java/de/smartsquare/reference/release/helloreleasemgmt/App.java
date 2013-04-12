@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "With this commit we're ready for a RC for version 0.2.0. It was great work, it's pretty sure that this will be final in the first try.";
+        return "Working towards 0.3.0 ...";
     }
     
     protected static void invokeStuff() {
