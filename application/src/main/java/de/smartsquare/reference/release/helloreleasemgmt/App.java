@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "No, we need another commit to hotfix the bug.";
+        return "Close to 0.3.0 now, let's make another RC!";
     }
     
     protected static void invokeStuff() {
