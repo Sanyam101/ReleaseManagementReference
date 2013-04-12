@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "Working towards 0.3.0 ...";
+        return "Working some more towards 0.3.0 ...";
     }
     
     protected static void invokeStuff() {

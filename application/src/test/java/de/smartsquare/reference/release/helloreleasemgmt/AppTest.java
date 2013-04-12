@@ -31,7 +31,7 @@ public class AppTest
      * Dumb test of the Scenario.
      */
     public void testGetScenario() {
-        assertEquals(App.getAppScenario(), "Working towards 0.3.0 ...");
+        assertEquals(App.getAppScenario(), "Working some more towards 0.3.0 ...");
     }
     
     /**
