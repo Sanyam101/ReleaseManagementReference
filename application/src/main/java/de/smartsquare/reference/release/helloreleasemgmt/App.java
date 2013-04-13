@@ -17,7 +17,7 @@ public class App {
     }
 
     protected static String getAppScenario() {
-        return "No, we need another commit to hotfix the bug.";
+        return "Another bug in Production, now on 0.2.1. Will need 2 commits to fix.";
     }
     
     protected static void invokeStuff() {
