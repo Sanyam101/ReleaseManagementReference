@@ -31,7 +31,7 @@ public class AppTest
      * Dumb test of the Scenario.
      */
     public void testGetScenario() {
-        assertEquals(App.getAppScenario(), "Close to 0.3.0 now, let's make another RC!");
+        assertEquals(App.getAppScenario(), "Merged another Hotfix, this time from 0.2.2.");
     }
     
     /**
