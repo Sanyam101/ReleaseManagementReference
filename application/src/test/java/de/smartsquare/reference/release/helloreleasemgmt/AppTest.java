@@ -31,7 +31,7 @@ public class AppTest
      * Dumb test of the Scenario.
      */
     public void testGetScenario() {
-        assertEquals(App.getAppScenario(), "Another bug in Production, now on 0.2.1. Will need 2 commits to fix.");
+        assertEquals(App.getAppScenario(), "Another bug in Production, now on 0.2.1. 2n commit to fix.");
     }
     
     /**
