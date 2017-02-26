@@ -11,12 +11,6 @@
     
     <name>HelloReleaseMgmt</name>
     
-    <scm>
-        <developerConnection>scm:git:file:///Users/alex/NetBeansProjects/HelloReleaseMgmt</developerConnection>
-        <tag>HelloReleaseMgmt-0.2.0-BL</tag>
-    </scm>
-
-
     <distributionManagement>
         <!-- Publish versioned releases here -->
         <repository>
